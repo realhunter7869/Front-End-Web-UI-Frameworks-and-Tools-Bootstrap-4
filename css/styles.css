@@ -1,3 +1,25 @@
+body {
+    padding-top: 50px;
+    z-index: 0;
+}
+
+/* top styling */
+
+.jumbotron {
+    background-color: #9575CD;
+    color: floralwhite;
+    margin: 0px auto;
+    padding: 70px 30px;
+}
+
+/* navbar styling */
+
+.navbar-dark {
+    background-color: #512DAB;
+}
+
+/* row styling */
+
 .row-header {
     margin: 0px auto;
     padding: 0px auto;
@@ -10,17 +32,12 @@
     padding: 50px 0px;
 }
 
+/* footer styling */
+
 .footer {
     background-color: #D1C4E9;
     margin: 0px auto;
     padding: 20px 0px;
-}
-
-.jumbotron {
-    background-color: #9575CD;
-    color: floralwhite;
-    margin: 0px auto;
-    padding: 70px 30px;
 }
 
 .address {
