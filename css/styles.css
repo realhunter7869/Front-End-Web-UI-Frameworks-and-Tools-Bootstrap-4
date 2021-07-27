@@ -58,6 +58,12 @@ body {
     min-height: 300px;
 }
 
+#carouselbutton {
+    bottom: 0;
+    position: absolute;
+    right: 0;
+}
+
 /* footer styling */
 
 .footer {
