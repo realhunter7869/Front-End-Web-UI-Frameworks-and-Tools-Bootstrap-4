@@ -22,6 +22,16 @@ address {
   background: #9575CD;
   color: floralwhite; }
 
+/* modal styling */
+.modal-header {
+  background-color: #512DA8;
+  color: floralwhite; }
+  .modal-header .close {
+    color: floralwhite; }
+
+.modal-body {
+  background-color: #D1C4E9; }
+
 /* carousel styling */
 .carousel {
   background: #512DA8; }
